@@ -1,0 +1,48 @@
+{
+    "video_path": "samples/FST sample 1.mp4",
+    "window_width": 1280,
+    "window_height": 720,
+    "fps_display": true,
+    "draw_frames": true,
+    "frames": [
+        {
+            "name": "1",
+            "top_left": [
+                29,
+                180
+            ],
+            "bottom_right": [
+                416,
+                630
+            ],
+            "rotation": 0,
+            "color": null
+        },
+        {
+            "name": "2",
+            "top_left": [
+                488,
+                198
+            ],
+            "bottom_right": [
+                776,
+                616
+            ],
+            "rotation": 0,
+            "color": null
+        },
+        {
+            "name": "3",
+            "top_left": [
+                1192,
+                194
+            ],
+            "bottom_right": [
+                848,
+                639
+            ],
+            "rotation": 0,
+            "color": null
+        }
+    ]
+}
