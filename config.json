@@ -4,6 +4,7 @@
     "window_height": 720,
     "fps_display": true,
     "draw_frames": true,
+    "enable_mobility_tracking": true,
     "frames": [
         {
             "name": "1",
@@ -44,5 +45,14 @@
             "rotation": 0,
             "color": null
         }
-    ]
+    ],
+    "mobility_tracking": {
+        "frame_diff_threshold": 25,
+        "swimming_threshold": 1.8,
+        "minimal_movement_threshold": 0.8,
+        "high_movement_pixels": 800,
+        "medium_movement_pixels": 400,
+        "history_size": 15,
+        "background_subtraction": true
+    }
 }
